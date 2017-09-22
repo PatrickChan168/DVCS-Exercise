@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Website\", "{772BD969-E30F-4F26-9E9C-AF5D61E270B6}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Website\", "{40A9B43A-7C86-4D72-BEDC-A66AEDF5DDBE}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1241"
@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Websit
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1241"
+		SlnRelativePath = "DVCS_Website\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -29,8 +30,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{772BD969-E30F-4F26-9E9C-AF5D61E270B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{772BD969-E30F-4F26-9E9C-AF5D61E270B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A9B43A-7C86-4D72-BEDC-A66AEDF5DDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A9B43A-7C86-4D72-BEDC-A66AEDF5DDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
