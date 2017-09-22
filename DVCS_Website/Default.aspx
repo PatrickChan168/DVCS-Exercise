@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>Best Website</h1>
-        <p class="lead">Read below to know why it's the best website.</p>
+        <p class="lead">Read below to find out why it's the best website.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
